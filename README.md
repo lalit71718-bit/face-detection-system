@@ -23,3 +23,6 @@ This is a simple Face Detection System built using Python, OpenCV, and Streamlit
 
 ```bash
 git clone https://github.com/lalit71718-bit/face-detection-system.git
+## Output Screenshot
+
+![Face Detection Output](screenshot.png)
